@@ -21,7 +21,6 @@
 using namespace std;
 
 
-
 class PCL{
 private:
 	void read(char *name,pcl::PointCloud<pcl::PointXYZ>::Ptr data);
